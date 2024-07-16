@@ -4,8 +4,7 @@ name: "Create Repo"
 # As the initial github commit message placed when creating a repo from
 # a template we need to ammend the commit message to comply with conventional commits
 
-on:
-  create:
+on: create
 
 jobs:
   create:
